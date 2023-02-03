@@ -146,12 +146,28 @@ img {
         align-items: center;
         gap: 50px;
     }
+    
+    .lessons {
+        padding-bottom: 3rem;
+    }
+
     .lessons .col {
         width: 100%;
     }
 
+    .steps {
+        margin: 0 0;
+    }
+
     .steps .col {
         width: 100%;
+    }
+    
+    .why-us {
+        background-color: #222222;
+        margin-bottom: 0;
+        padding-top: 3rem;
+        padding-bottom: 3rem;
     }
 
     .why-us .col-left {
